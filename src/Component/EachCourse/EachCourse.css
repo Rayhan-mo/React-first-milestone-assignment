@@ -1,0 +1,12 @@
+.each-container{
+    width: 40vh;
+    display: inline-block;
+    margin: 4vh;
+}
+.image{
+    width: 40vh;
+    height: 20vh;
+}
+.container{
+    width: 40vh;
+}
